@@ -1,16 +1,14 @@
-# placement_daily_task
+<h1 align="center">TODO App</h1>
+<video src="https://github.com/user-attachments/assets/ce64c098-3ba4-48ce-918a-36df63c25c6d"></video>
+<h1 align="center">User Login App</h1>
+<video src="https://github.com/user-attachments/assets/c06b123f-0a17-41df-af99-4de334be5f20"></video>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
