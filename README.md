@@ -53,6 +53,14 @@
 
 
 <video src="https://github.com/user-attachments/assets/6b61ca7e-1777-4010-b754-b263f243a411"></video>
+<h1>
+  Email /Password  And Google Authication
+</h1>
+
+
+<img src="https://github.com/user-attachments/assets/73b77bc1-4191-4286-b669-1803b5d0f7cc"></img>
+<video src="https://github.com/user-attachments/assets/26b8df21-5d04-46f4-adfb-db4b4a5ad23f"></video>
+
 
 
 
